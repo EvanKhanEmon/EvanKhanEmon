@@ -6,7 +6,7 @@ Skills ➡️
 ✔️C Programming
 ✔️JAVA
 ✔️HTML
-✔️Python (Beginner)
+✔️Python (Beginner).
 ###  About
 
 - 🌱 I’m currently learning Php, Web Developing 
