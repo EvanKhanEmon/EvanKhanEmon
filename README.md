@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=EvanKhanEmon&color=blue)
 
 
-### � About
+###  About
 Hi there! 👋
 - 🌱 I’m currently learning Php, Web Developing 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
