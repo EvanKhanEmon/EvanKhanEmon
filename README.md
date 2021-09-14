@@ -2,6 +2,7 @@
 
 
 ### � About
+Hi there! 👋
 - 🌱 I’m currently learning Php, Web Developing 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 💬 Ask me about anything related  web developing .
