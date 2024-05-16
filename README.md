@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=EvanKhanEmon&color=blue)
 Welcome to my GitHub profile 😊.
-I'm currently studying BSC in computer science and engineering from State University of Bangladesh.
 
 ###  About
 
